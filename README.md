@@ -1,4 +1,4 @@
 # Demowork
 This is my project to learn github
 <br>
-Author - Harsha Varadhan Gopal
+Author - Harsha Gopal
